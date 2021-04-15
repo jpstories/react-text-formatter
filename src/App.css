@@ -1,0 +1,11 @@
+.App {
+    width: max-content;
+    height: max-content;
+    margin: 0 auto;
+    font-size: 1.2em;
+}
+
+#textfield {
+    width: 750px !important;
+    height: 350px !important;
+}
